@@ -9,12 +9,12 @@ anmMRP
 anmMRP is a suite of web based MRP and Demand Forecasting apps.
 
 anmMRP can be used as stand-alone applications, but they also integrate seamlessly so you get
-a full-featured <a href="htttps://anmmna.my.canvas.site/material-management">anmMRP</a> when you install several Apps.
+a full-featured <a href="htttps://anmmna.my.canva.site/material-management">anmMRP</a> when you install several Apps.
 
 Getting started with anmMRP
 -------------------------
 
-For a standard installation please follow the <a href="https://anmmna.my.canvas.site/material-management">Setup instructions</a>
+For a standard installation please follow the <a href="https://anmmna.my.canva.site/material-management">Setup instructions</a>
 from the documentation.
 
-To learn the software, we recommend the <a href="https://anmmna.my.canvas.site/material-management">anmMRP eLearning</a>, or <a href="https://anmmna.my.canvas.site/material-management">Scale-up</a>, the <a href="https://anmmna.my.canvas.site/material-management">business game</a>. Developers can start with <a href="https://anmmna.my.canvas.site/material-management">the developer tutorials</a>
+To learn the software, we recommend the <a href="https://anmmna.my.canva.site/material-management">anmMRP eLearning</a>, or <a href="https://anmmna.my.canva.site/material-management">Scale-up</a>, the <a href="https://anmmna.my.canva.site/material-management">business game</a>. Developers can start with <a href="https://anmmna.my.canva.site/material-management">the developer tutorials</a>

@@ -1,4 +1,4 @@
-# How to build MRP
+# How to operate anmMRP
 
 ---
 

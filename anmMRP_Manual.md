@@ -95,7 +95,7 @@
     b. input the current inventory of each item at "Current inventory" (you can leave blank if there is none")
     c. The current inventory makes the "Days on hand" data, which enables material status monitoring againt the lead time of each material.
 
-![MR](images/c76acec51e8ef89863564f3c32f775049beb14ff917f01c769016cdf86e20dfa.png)
+![MR](MR.png)
 
 ## 6. Review inventory shortage forecast with exploded view at MRP
 
@@ -103,4 +103,4 @@
     b. Each item shows negative inventory as the production consumes all of the current inventory, and the level of negativeness increases.
     c. Instantly, you can see BBE-001 & LNA-002 will cause material shortages in Day-2 per current production plan
 
-![ST](images/e5b743f78d800c30e72a102e654a11a5d0cffb93fc266e5ff74437648ab2e7d9.png)
+![ST](ST.png)

@@ -1,0 +1,70 @@
+/* Data.css */
+.boxes {
+  display: flex;
+  justify-content: center; /* Center the boxes horizontally */
+  margin-top: 45px;
+}
+
+.box {
+  width: 275px;
+  height: 110px; /* Adjusted height */
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  position: relative; /* Positioning for the line */
+  margin: 0 25px; /* Adjusted margin for minimal space between boxes */
+}
+
+.box-header {
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  margin-left: 15px;
+}
+
+/* Styling for the line */
+.line {
+  width: 100%;
+  height: 1px;
+  background-color: #ccc;
+  position: absolute;
+  bottom: 50%; /* Positioning the line below the first row */
+  left: 0; /* Align the line with the box */
+}
+.sub-texts {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sub-text1 {
+  margin-top: 30px;
+  font-size: 25px;
+  font-weight: 500
+}
+
+.sub-text2 {
+  margin-top: 35px;
+  color:rgb(1, 158, 64);
+  background-color: rgb(190, 247, 190);
+}
+
+.sub-text3 {
+  margin-top: 40px;
+  font-size: 15px;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+}
+
+#horizontal-line2 {
+  width: 94.444%;
+  height: 1px;
+  background-color: #ccc;
+  margin-top: 35px;
+  margin-left: 50px;
+}

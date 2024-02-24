@@ -1,0 +1,75 @@
+/* Header.css */
+
+.header-container {
+  position: relative;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.top-left img {
+  width: 46.4266667px;
+  height: 34.4px;
+}
+
+.top-right img {
+  width: 48.3333333px;
+  height: 48.3333333px;
+}
+
+
+.top-left .campaign-manager {
+  
+  font-size: 26.6666667px;
+  color: rgb(0, 130, 156);
+  margin-top: -3px;
+  margin-left: 26.6666667px;
+}
+
+.top-right .campaign-manager {
+  font-size: 24px;
+  color: rgb(0, 130, 156);
+  margin-top: -3px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.top-left,
+.top-right {
+  display: flex;
+  align-items: center;
+}
+
+.top-right {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: calc(100% + 5px);
+  right: 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-item {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dropdown-item:hover {
+  background-color: #f0f0f0;
+}
+
+#horizontal-line {
+  width: 100%;
+  height: 1px;
+  background-color: rgb(2, 154, 184);
+  margin-top: -15px;
+}

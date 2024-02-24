@@ -1,0 +1,55 @@
+/* TableHeader.css */
+.table-header-box {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .table-header {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    width: calc(80%);
+    margin: auto;
+    margin-top: 30px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .table-header > div {
+    flex: 1;
+  }
+  
+  /* Adjust styles for ID */
+  .id {
+    margin-left: -70px;
+  }
+  
+  /* Adjust styles for IMAGE */
+  .image {
+    margin-left: -100px;
+  }
+  
+  /* Adjust the width for the other elements */
+  .name {
+    margin-left: -20px;
+  }
+  
+  .status {
+    margin-left: 120px;
+  }
+
+  .delete {
+    margin-left: -60px;
+  }
+
+  .edit {
+    margin-left: -20px;
+  }
+
+.table-description {
+    margin-top: 100px;
+    text-align: center;
+}
+  
